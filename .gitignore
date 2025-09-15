@@ -72,3 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/STF/Pack03-LandscapePro/Maps/open_world_LSP_v2.umap
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2.umap
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer1_Puddles_LayerInfo.uasset
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer_1_LayerInfo.uasset
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer_1_no_plants_LayerInfo.uasset
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer_1_Puddles_LayerInfo.uasset
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer_2_LayerInfo.uasset
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer_2_no_plants_LayerInfo.uasset
+Content/STF/Pack03-LandscapePro/Maps/testmap_LSP_v2_sharedassets/Layer_2_Puddles_LayerInfo.uasset
